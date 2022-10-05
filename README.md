@@ -6,7 +6,7 @@ This is a remote repository for testing how this works
 **To do**
 
 - [x] Catch up with OI
-- [ ] Do toll tasks
+- [x] Do toll tasks
 - [ ] Read Zurich email
 
 ```py
